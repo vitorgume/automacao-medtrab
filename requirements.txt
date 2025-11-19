@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+psycopg2-binary
+pytest
+coverage
+
+# Web scraping
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+lxml
